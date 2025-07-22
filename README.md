@@ -18,6 +18,9 @@ Throughout the development of this project, I gained hands-on experience and str
 * **Data Analysis Fundamentals:** Using logged data to identify patterns and improve system performance
 * **Development Environment Proficiency**: Gained familiarity and efficiency with VS Code for project development and debugging.
 
+
+
+
 # Instructions: Setup and Run
 
 Follow these steps to set up and run the Smart Spell Checker locally:
