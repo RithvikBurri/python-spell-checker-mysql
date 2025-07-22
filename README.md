@@ -17,9 +17,7 @@ Throughout the development of this project, I gained hands-on experience and str
 * **Error Handling & Logging:** Misspelling detection, correction suggestions, and change tracking
 * **Data Analysis Fundamentals:** Using logged data to identify patterns and improve system performance
 * **Development Environment Proficiency**: Gained familiarity and efficiency with VS Code for project development and debugging.
-
-
-
+<br>
 
 # Instructions: Setup and Run
 
